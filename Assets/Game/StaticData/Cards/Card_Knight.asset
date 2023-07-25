@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7bc62d06dd88044a6be41796e06daea4, type: 3}
+  m_Name: Card_Knight
+  m_EditorClassIdentifier: 
+  displayName: Knight
+  cardType: 36
+  sprite: {fileID: 21300000, guid: 717f05a1b9e034cb093090d451bb08c9, type: 3}
+  text: 2 Block or Sell for 10 Coins
+  damage: 0
+  shieldAmount: 2
+  characterId: Ally_Knight
+  xpAmount: 0
+  coins: 10

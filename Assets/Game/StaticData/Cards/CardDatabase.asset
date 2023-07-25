@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9685b309426914da299461255e43a551, type: 3}
+  m_Name: CardDatabase
+  m_EditorClassIdentifier: 
+  cardTypeColors:
+  - cardType: 1
+    color:
+      useLocalValue: 0
+      localValue: {r: 0, g: 0, b: 0, a: 0}
+      variable: {fileID: 11400000, guid: a96c29e9ad213475bb650a5776bd0a23, type: 2}
+  - cardType: 4
+    color:
+      useLocalValue: 0
+      localValue: {r: 0, g: 0, b: 0, a: 0}
+      variable: {fileID: 11400000, guid: 7dac09c4b6e414b508180b5888601d99, type: 2}
+  - cardType: 2
+    color:
+      useLocalValue: 0
+      localValue: {r: 0, g: 0, b: 0, a: 0}
+      variable: {fileID: 11400000, guid: 4fdafb30b72b045598a93b4232c5cc73, type: 2}
+  - cardType: 32
+    color:
+      useLocalValue: 0
+      localValue: {r: 0, g: 0, b: 0, a: 0}
+      variable: {fileID: 11400000, guid: 4fdafb30b72b045598a93b4232c5cc73, type: 2}
+  - cardType: 33
+    color:
+      useLocalValue: 0
+      localValue: {r: 0, g: 0, b: 0, a: 0}
+      variable: {fileID: 11400000, guid: 4fdafb30b72b045598a93b4232c5cc73, type: 2}
+  cards:
+  - {fileID: 11400000, guid: f6480717b07bd4c44a0b1d65cec4b9ad, type: 2}
+  - {fileID: 11400000, guid: 88ea0c3e67db64684925c517ddc84566, type: 2}
+  - {fileID: 11400000, guid: f0b5c0c1d78ff46438c8dc15998659a1, type: 2}
+  - {fileID: 11400000, guid: ba7e40e1e5f9b4d6086d388b8c9726e8, type: 2}
+  - {fileID: 11400000, guid: b40404a5bceef400090369c6bd55a512, type: 2}
+  - {fileID: 11400000, guid: 6bdb991b3a260411fa4aea11f91c32ab, type: 2}
+  - {fileID: 11400000, guid: 54341ad8f6372432e90559114c8576e9, type: 2}

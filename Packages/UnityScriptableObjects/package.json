@@ -1,0 +1,11 @@
+{
+  "name": "com.gameframe.scriptableobjects",
+  "displayName": "Gameframe.ScriptableObjects",
+  "version": "1.1.0",
+  "author": {
+    "name": "Cory Leach",
+    "email": "cory.leach@gmail.com",
+    "url": "https://coryleach.info"
+  },
+  "description": "Library of scriptable object types"
+}
