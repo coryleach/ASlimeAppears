@@ -273,7 +273,7 @@ namespace Game.Scripts
 
         public void OnAllyUnsummon(AllyInstance ally)
         {
-            var card = new CardInstance("Card_Turnip");
+            var card = new CardInstance("Card_Knight");
             deck.discardPile.Add(card);
             _handView.AnimateAddedCard(card);
             refreshEvent.Raise();
